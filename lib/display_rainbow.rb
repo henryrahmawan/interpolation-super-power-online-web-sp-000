@@ -8,5 +8,5 @@ def display_rainbow(colors)
   I = "indigo"
   V = "violet"
   colors = ["R","O", "Y", "G", "B", "I", "V"]
-  puts " The Colors of raibow are #{colors}"
+  puts " The Colors of raibow are #{colors(1)}"
 end
