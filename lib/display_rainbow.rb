@@ -7,5 +7,5 @@ def display_rainbow(colors = ['red', 'orange', 'yellow', 'green', 'blue', 'indig
    print "B: #{colors[4]}, "
    print "I: #{colors[5]}, "
    print "V: #{colors[6]}\n"
-  puts display_rainbow #{"colors(R)","colors(O)", "colors(Y)", "colors(G)", "colors(B)", "colors(I)", "colors(V)" }
+
 end
