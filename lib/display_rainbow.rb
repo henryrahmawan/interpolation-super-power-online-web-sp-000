@@ -7,6 +7,6 @@ def display_rainbow(colors)
   B = "blue"
   I = "indigo"
   V = "violet"
-  colors = ["R","O", "Y", "G", "B", "I", "V"]
-  puts " The Colors of raibow are #{colors(1)}"
+  colors = {"R","O", "Y", "G", "B", "I", "V"}
+  puts " The Colors of raibow are #{colors}"
 end
